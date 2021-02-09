@@ -1,6 +1,8 @@
 # Nitro-Generator
 Generate discord nitro codes via this script!
 
+|| !DISCLAIMER! The generated codes will not always work. ||
+
 Double click the file to run it.
 Enter amount of codes to generate, once done the codes will be saved in Nitro Codes.txt .
 
